@@ -42,7 +42,10 @@ Please scan the actual source, the file that ends with '.py' -  It will with no 
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
-![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche&show_icons=true&theme=transparent)
+
+
+![noarche's github stats](https://github-readme-stats.vercel.app/api?username=noarche)
+
 
 
 ## ꧁꧂ 🪙 Drop a tip
