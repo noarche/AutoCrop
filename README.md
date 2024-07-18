@@ -1,12 +1,3 @@
-#  ꧁꧂ How to open on windows:
-
-  Download [winrar](https://www.rarlab.com/rar/winrar-x64-701.exe) to combine and open the archive
-  
-  Clone this repo with the following command: 
-
-    git clone https://github.com/noarche/AutoCrop
-
-
 #  ꧁꧂ How to use
 
   Click AutoCrop.exe and you will be prompted for a directory, select the directory containing images you want to crop. 
@@ -16,11 +7,25 @@
   When the process is finished running you will be prompted with information of how many files were cropped.
 
 
+#  ꧁꧂ How to open on windows:
+
+  Download [winrar](https://www.rarlab.com/rar/winrar-x64-701.exe) to combine and open the archive
+  
+  Clone this repo with the following command: 
+
+    git clone https://github.com/noarche/AutoCrop
+
+    
+ # ꧁꧂  How to run on linux
+  The python files you need to run are located in /source/ of this repo. There is a console and GUI version available. 
+
+
+
   #  ꧁꧂ Notes
 
-  This app replaces the original files. If you need a backup be sure to have it before processing with this app. 
+    This app replaces the original files. If you need a backup be sure to have it before processing with this app. 
 
-  #꧁꧂  Support
+  #  ꧁꧂ Support
 
 ## 🛡️ Is this a virus❔
 
@@ -33,7 +38,7 @@ Please scan the actual source, the file that ends with '.py' -  It will with no 
 
 🛡️ Tip for all questionable applications: 
 
-*Running the application via [Sandboxie](https://sandboxie-plus.com/downloads/) or similar app will virutalize and protect your OS as if it was running on a virtual machine - [Sandboxie](https://sandboxie-plus.com/downloads/) can be used with any application or installation package thus another great tool to have.* 
+*Running the application via [Sandboxie](https://sandboxie-plus.com/downloads/) or similar app will virtualize and protect your OS as if it was running on a virtual machine - [Sandboxie](https://sandboxie-plus.com/downloads/) can be used with any application or installation package thus another great tool to have.* 
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
