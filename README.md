@@ -20,11 +20,11 @@
 
   This app replaces the original files. If you need a backup be sure to have it before processing with this app. 
 
-  # Support
+  #꧁꧂  Support
 
 ## 🛡️ Is this a virus❔
 
-No it is not a virus, that is a false positive. Anything compiled with pyinstaller will be flagged as potentially malicious. Pyinstaller is what turns the .py file into a .exe file and allows people to run python scripts as portable applications without the need to install python or any dependancies.  
+No it is not a virus, that is a false positive. Anything compiled with pyinstaller will be flagged as potentially malicious. Pyinstaller is what turns the .py file into a .exe file and allows people to run python scripts as portable applications without the need to install python or any dependencies.  
 
 Please scan the actual source, the file that ends with '.py' -  It will with no doubt be 100% clean on virustotal.  That being said I have provided instructions on how to build your own exe from the file you know is clean. 
 
